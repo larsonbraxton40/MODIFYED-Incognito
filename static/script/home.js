@@ -21,7 +21,7 @@ const tips = [
     'Modify Inc&#173;ogni&#173;tos appearance & browser tab in <a href="#settings">settings.</a>',
     'You can enable about:blank tab cloaking in <a href="#settings">settings.</a>',
     'Access popular media & sites easily in <a href="#apps">apps.</a>',
-    'This unofficial In&#173;cog&#173;nito version</a> is made by Am&#173;et&#173;hy&#173;st Net&#173;wo&#173;rk.',
+    'This unofficial In&#173;cog&#173;nito version</a> is hosted by Vl&#173;ad&#173;im&#173;ir Pu&#173;t&#173;in.',
     'Get answers to questions in <a href="#support">support</a>',
 ];
 
